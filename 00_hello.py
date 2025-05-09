@@ -12,3 +12,5 @@ de multiplas linhas
 Este é um outro comentário
 de múltiplas linhas
 """
+
+print("Olá Git!")
