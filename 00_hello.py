@@ -14,3 +14,5 @@ de múltiplas linhas
 """
 
 print("Olá Git!")
+
+print("Implementando uma funcionalidade super importante")
