@@ -1,7 +1,7 @@
 nome = "João"
 sobrenome = 'Silva'
 
-idade = 30
+idade = 28
 altura = 1.75
 
 viveNoPorto = True
